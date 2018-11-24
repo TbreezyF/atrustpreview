@@ -1,0 +1,20 @@
+{
+  "name": "auto_trust",
+  "version": "1.0.0",
+  "description": "Auto Trust Winnipeg Prod",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sproft Media",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "path": "^0.12.7"
+  }
+}

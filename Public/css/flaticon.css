@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "Flaticon";
+	src: url("/fonts/flaticon/flaticon.eot");
+	src: url("/fonts/flaticon/flaticon.eot#iefix") format("embedded-opentype"),
+	url("/fonts/flaticon/flaticon.woff") format("woff"),
+	url("/fonts/flaticon/flaticon.ttf") format("truetype"),
+	url("/fonts/flaticon/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-automobile5:before {
+    content: "\e000";
+}
+
+.flaticon-automobile8:before {
+    content: "\e001";
+}
+
+.flaticon-bus6:before {
+    content: "\e002";
+}
+
+.flaticon-car33:before {
+    content: "\e003";
+}
+
+.flaticon-car36:before {
+    content: "\e004";
+}
+
+.flaticon-repairing4:before {
+    content: "\e005";
+}
+
+.flaticon-speakers17:before {
+    content: "\e006";
+}
+
+.flaticon-transport320:before {
+    content: "\e007";
+}
+
+.flaticon-transport327:before {
+    content: "\e008";
+}
+
+.flaticon-transport391:before {
+    content: "\e009";
+}
+
+.flaticon-wheels10:before {
+    content: "\e00a";
+}
+
+.flaticon-motorcycle:before { 
+    content: "\f100"; 
+}
+.flaticon-car:before {
+     content: "\f101"; 
+}
+.flaticon-car-1:before {
+     content: "\f102"; 
+}
+.flaticon-pickup-truck-side-view:before {
+     content: "\f103";
+}
+.flaticon-van-black-side-view:before {
+     content: "\f104"; 
+}
+.flaticon-sportive-car:before {
+     content: "\f105"; 
+}
+.flaticon-sports-car:before {
+ content: "\f106"; 
+}
